@@ -1,0 +1,10 @@
+# STEPS TO MAKE GOOGLE TRENDS DASHBOARD:
+
+1. As the data is fetched from an API, the website name is "Serpapi" and the link is <link>(https://serpapi.com/google-trends-api)
+2. Take the data written in the code in any of the language in which you are comfortable.
+3. Convert the code in Power query in Power BI.
+4. Fetch the important data which is necessary information for our dashboard.
+5. Clean the data and remove any inconsistences between them.
+6. Draw visuals in power Bi. 
+7. For the background use "figma" or i will also provide 
+
