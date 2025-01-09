@@ -74,7 +74,7 @@ Dashboard 4: Real time Data
 # How to Use
 ## Clone the Repository:
 
-git clone https://github.com/yourusername/google-trends-dashboard.git
+git clone https://github.com/Harveen-kaur254/google-trends-dashboard.git
 Download Power BI (if not already installed):
 Download Power BI
 Open the Power BI File:
